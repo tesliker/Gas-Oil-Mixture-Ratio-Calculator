@@ -27,7 +27,7 @@ export default class App extends React.Component {
       }
     } else {
 
-      gasOilLabel = 'Gas/Oil Misture Ratio';
+      gasOilLabel = 'Gas/Oil Mixture Ratio';
       textLabel = 'Gas (US Gallons)';
       textInput = <TextInput
           style={{marginLeft: 'auto', marginRight: 'auto', width: 100, height: 40, padding: 5, color: '#FFF', borderColor: 'rgba(256, 256, 256, .4)', backgroundColor: 'rgba(256, 256, 256, .2)', borderWidth: 1}}
